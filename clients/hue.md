@@ -13,7 +13,7 @@
 * <a href="#hue_deployment_tools">Deployment Tools</a>
 * <a href="#hue_admin_features">Admin features</a>
 
----
+----
 <div style="page-break-after: always;"></div>
 
 ## <center> <a name="hue_design_goals">HUE Design & Goals</a>
